@@ -50,6 +50,7 @@ If you want to add a new link, just create a pull request (or directly edit this
 - [GoCNN](https://github.com/jmgilmer/GoCNN) - using CNN for Go board evaluation with TensorFlow.
 - [gomill](https://pypi.python.org/pypi/gomill) - python tools for developing go-playing programs.
 - [GoFamiliar](https://github.com/salvor7/Gofamiliar) - python hydra game app (in development) 
+- [ergo](https://github.com/CurtisHughey/ergo) - C bot engine, MCTS implementation.  Runs on KGS.
 
 ## Other libraries
 
